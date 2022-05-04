@@ -1,9 +1,4 @@
-﻿Usuário;Senha;;;;;;
-monitor@system;¢i¥y┐h└<┴8┬s;;;;;;
-;;;;;;;
-Switchs;software;version;modelo;garantia;fabricante;pilha;IP
-;;;;;;;
-;;;;;;;
+﻿switchs;software;version;modelo;garantia;fabricante;pilha;IP
 CAP-REITOR-SW-3600-BLOCO-C-0.82;comware;5.20.99;3600-24-EI;não;HP;1;172.16.0.82
 CAP-REITOR-SW-3600-DDAR-C-0.90;comware;5.20.99;3600-24-EI;não;HP;1;172.16.0.90
 CAP-REITOR-SW-4200-BLOCO-B-21.4;3com;v-3;4200-24;não;3com;1;192.168.21.4
