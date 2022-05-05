@@ -28,7 +28,7 @@ setattr(Server, 'tftp_server', socket.gethostbyname(hostname))
 
 servers = []
 #Arquivo de lista de switches
-file_name = 'lista-de-switchs.csv'
+file_name = '../lista-de-switches.csv'
 #Leitura de arquivo CSV com o delimitador ';'
 f = open('lista-de-switchs.txt', 'r')
 #Lê todas as linhas pulando a primeira
