@@ -1,5 +1,5 @@
 from cryptography.fernet import Fernet
-from lib.Key_generate import key
+from libs.Key_generate import key
 
 
 class User:

@@ -1,5 +1,5 @@
 from Switch import Switch
-from lib.Functions import get_all_users, get_all_switches
+from libs.Functions import get_all_users, get_all_switches
 
 
 def main():
